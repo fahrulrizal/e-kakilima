@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="600" viewBox="0 0 900 600">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill-rule: evenodd;
+      }
+
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient-3);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="450" y1="520" x2="450" y2="68" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#75d7b8"/>
+      <stop offset="1" stop-color="#2fc3b0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="449.5" y1="370" x2="449.5" y2="74" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6ac7bd"/>
+      <stop offset="1" stop-color="#0eba94"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="748" y1="418" x2="748" y2="227" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5ae5d6"/>
+      <stop offset="1" stop-color="#6ac6c3"/>
+    </linearGradient>
+  </defs>
+  <path class="cls-1" d="M0,70l900-2V413.385L0,520V70Z"/>
+  <path class="cls-2" d="M-4,218L472,74l431,86L-2,370Z"/>
+  <path class="cls-3" d="M900,227L596,239l25,179,277-65Z"/>
+</svg>
